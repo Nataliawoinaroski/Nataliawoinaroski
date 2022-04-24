@@ -2,7 +2,7 @@
 - 👀 I’m interested in studing
 - 🌱 I’m currently learning linguagem de programação
 - 💞️ I’m looking to collaborate on línguagem de programação javascript
-- 📫 How to reach me Instagram 
+- 📫 How to reach me Instagram @woinaroski_emily
 
 <!---
 Nataliawoinaroski/Nataliawoinaroski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
